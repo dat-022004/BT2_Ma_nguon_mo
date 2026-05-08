@@ -1,8 +1,8 @@
 ## 🎓 Sinh Viên
-Họ tên: Đặng Đình Đạt
-MSV: K225480106003
+Họ tên: Đặng Đình Đạt  
+MSV: K225480106003  
 Lớp: 58KTPM  
-Môn: TEE0421 - Phát triển ứng dụng với mã nguồn mở
+Môn: TEE0421 - Phát triển ứng dụng với mã nguồn mở  
 
 # 📋 Pawn Shop Management System
 
@@ -83,24 +83,27 @@ docker-compose exec django python manage.py createsuperuser
 
 ## 📸 Hình Ảnh Minh Họa
 
-### 1️⃣ Trang Chủ - Danh Sách Nợ Đến Hạn
-![Home Page](img/1_home_page.jpg)
+###  SỬ DỤNG DOCKER TRÊN UBUNTU
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37274279-f223-47dc-8b31-bb8a04b552d6" />  
+
+###  Trang Chủ - Danh Sách Nợ Đến Hạn
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcdf5617-8439-47cf-9523-4845f1200f28" />  
 *Hiển thị các hợp đồng nợ quá hạn và sắp đến hạn*
 
-### 2️⃣ Admin Panel - Quản Lý Hợp Đồng
-![Admin Panel](img/2_admin_panel.jpg)
+###  Admin Panel - Quản Lý Hợp Đồng
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f83fe5c-cb27-4eca-96d4-77d211a89381" />  
 *Giao diện admin Django với CRUD operations*
 
-### 3️⃣ Cloudflare Connectors
-![Cloudflare Connectors](img/3_cloudflare_connectors.jpg)
+###  Cloudflare Connectors
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00d079af-7700-410f-bb4c-a614d0a7b8b7" />  
 *Danh sách các kết nối Cloudflare Tunnel*
 
-### 4️⃣ Cloudflare Tunnel Details
-![Tunnel Details](img/4_tunnel_details.jpg)
+###  Cloudflare Tunnel Details
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91b59515-93ab-47c3-80c3-9599c5498b06" />  
 *Chi tiết tunnel pawnshop-new được public*
 
-### 5️⃣ Trang Nợ Đến Hạn (Chi Tiết)
-![Overdue Debts](img/5_overdue_debts.jpg)
+###  Trang domain  
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b5df868f-f2f0-4e6a-8f44-9527e150d5ca" />  
 *Bảng chi tiết các khoản nợ chưa thanh toán*
 
 ---
