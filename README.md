@@ -103,7 +103,7 @@ docker-compose exec django python manage.py createsuperuser
 *Chi tiết tunnel pawnshop-new được public*
 
 ###  Trang domain  
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b5df868f-f2f0-4e6a-8f44-9527e150d5ca" />  
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/dd8b6809-d958-43c8-8090-5088ef2e881c" />
 *Bảng chi tiết các khoản nợ chưa thanh toán*
 
 ---
